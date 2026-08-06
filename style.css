@@ -11,8 +11,10 @@ body {
 }
 
 header {
-  background: linear-gradient(135deg, #0b1f3a, #162f55);
+  background: linear-gradient(135deg, #0b1f3a, #1c3d6e);
   color: white;
+  padding: 40px 20px;
+  text-align: center;
 }
 
 h2 {
@@ -20,15 +22,10 @@ h2 {
 }
 
 .card {
-  background: white;
-  border: 1px solid #e6d7a3;
-}
-
-header {
-  background: #0b1f3a;
-  color: white;
-  padding: 40px 20px;
-  text-align: center;
+  background: #ffffff;
+  border: 1px solid #d4af37;
+  padding: 20px;
+  border-radius: 12px;
 }
 
 header h1 {
