@@ -6,8 +6,22 @@
 }
 
 body {
-  background: #f5f7fa;
+  background: #f8f7f3;
   color: #222;
+}
+
+header {
+  background: linear-gradient(135deg, #0b1f3a, #162f55);
+  color: white;
+}
+
+h2 {
+  color: #b8860b;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e6d7a3;
 }
 
 header {
